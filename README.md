@@ -29,9 +29,39 @@
 <br>
 
 <h2>Tecnologías Conocidas 👨🏻‍💻</h2>
-
-
-💻  
+<h2>Tecnologías Conocidas 👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+  ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+  ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
+  ![MYSQL_Workbench](https://img.shields.io/badge/-MYSQL_Workbench-333333?style=flat&logo=MYSQL_Workbench)
+  ![MongoDB_Compass](https://img.shields.io/badge/-MongoDB_Compass-333333?style=flat&logo=MongoDB_Compass)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+</p>
+ 
 
 
 

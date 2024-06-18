@@ -108,7 +108,7 @@ Control de Versiones ⚙️
   </td>
 </tr>
 </table>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <h2> Contacto 😃 </h2>
 <p align="center">

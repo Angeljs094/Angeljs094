@@ -30,13 +30,13 @@
 
 
 
-Proyectos Destacados 👨🏻‍💻
-<table align="left">
-<tr border="none">
+📊  Proyectos Destacados
+<table align="center">
+<tr>
   <td width="50%" align="center">
     <p align="center">
      <a href="https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view" title="Proyecto Nail Salon">
-        <img align="center" width="100%" src="https://via.placeholder.com/250x150.png?text=Proyecto+Nail+Salon" alt="Proyecto Nail Salon"/></a>
+        <img align="center" width="100%" src="/mnt/data/image-1.png" alt="Proyecto Nail Salon"/></a>
       </p>
     <p align="center">
         <a href="https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view" target="blank"><img align="center" src="https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video"  /></a>
@@ -45,7 +45,7 @@ Proyectos Destacados 👨🏻‍💻
   <td width="50%" align="center">
     <p align="center">
      <a href="https://github.com/AlejandroAsor/c18-66-ft-data-bi" title="Proyecto Data BI">
-        <img align="center" width="100%" src="https://via.placeholder.com/250x150.png?text=Proyecto+Data+BI" alt="Proyecto Data BI"/></a>
+        <img align="center" width="100%" src="/mnt/data/image-2.png" alt="Proyecto Data BI"/></a>
       </p>
     <p align="center">
         <a href="https://github.com/AlejandroAsor/c18-66-ft-data-bi" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -54,10 +54,6 @@ Proyectos Destacados 👨🏻‍💻
 </tr>
 </table>
 <br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
 <h2>GitHub :octocat:</h2>
 <p align="center">
 <table align="center">
@@ -72,26 +68,9 @@ Proyectos Destacados 👨🏻‍💻
 </table>
 </p>
 Contacto
-💬 Siéntete libre de escribirme para propuestas laborales o si tienes dudas sobre alguno de mis repositorios.
-📧 Email: angeljaramillosulca@gmail.com
-💼 LinkedIn: Ángel Jaramillo
-Gracias por visitar mi perfil...! 😃
-<td width="40%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=angeljarads&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
+<p align="center">
+  💬 Siéntete libre de escribirme para propuestas laborales o si tienes dudas sobre alguno de mis repositorios.<br>
+  📧 Email: [angeljaramillosulca@gmail.com](mailto:angeljaramillosulca@gmail.com)<br>
+  💼 LinkedIn: [Ángel Jaramillo](https://www.linkedin.com/in/angeljarads/)
 </p>
-
-## Contacto
-
-- 💬 Siéntete libre de escribirme para propuestas laborales o si tienes dudas sobre alguno de mis repositorios.
-- 📧 Email: [angeljaramillosulca@gmail.com](mailto:angeljaramillosulca@gmail.com)
-- 💼 LinkedIn: [Ángel Jaramillo](https://www.linkedin.com/in/angeljarads/)
-
 Gracias por visitar mi perfil...! 😃
-
----
-
-Para más recursos sobre desarrollo y tecnología, visita [Tecnoyescas](https://www.tecnoyescas.com).
-

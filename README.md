@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes una versión adaptada y mejorada para tu perfil de GitHub. Esta versión es llamativa pero no sobrecargada, adecuada para alguien que recién comienza y quiere causar una buena impresión.
-
----
-
 <h1 align="center">Hola 👋 soy Angel T. Jaramillo Sulca / Ingeniero de Datos ✨ </h1> 
 
 <p align="left">
@@ -78,10 +74,5 @@
 </tr>
 </table>
 </p>
-
----
-
-Para más recursos sobre desarrollo y tecnología, visita [Tecnoyescas](https://www.tecnoyescas.com).
-
 </p>        
 <!--- stats (end) -->

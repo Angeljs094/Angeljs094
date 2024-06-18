@@ -84,9 +84,6 @@ Control de Versiones ⚙️
 </p>
  
 
-
-
-
 <h2>Proyectos Destacados 👨🏻‍💻</h2>
 
 <table align="left">
@@ -112,5 +109,12 @@ Control de Versiones ⚙️
 </td>
 </tr>
 </table>
+<br><br><br><br><br><br><br><br><br>
 
 <h2>Contacto 😃</h2>
+<p align="center">
+  💬 Siéntete libre de escribirme para propuestas laborales o si tienes dudas sobre alguno de mis repositorios.<br>
+  📧 Email: [angeljaramillosulca@gmail.com](mailto:angeljaramillosulca@gmail.com)<br>
+  💼 LinkedIn: [Ángel Jaramillo](https://www.linkedin.com/in/angeljarads/)
+</p>
+Gracias por visitar mi perfil...! 😃

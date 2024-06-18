@@ -90,7 +90,7 @@ Control de Versiones ⚙️
   <td width="50%" align="center">
     <p align="center">
      <a href="https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view?resourcekey" title="Proyecto Nail Salon">
-        <img align="center" width="100%" src="/mnt/data/image.png" alt="Proyecto Nail Salon"/></a>
+        <img align="center" width="100%" src="[https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/logo.jpeg]" alt="Proyecto Nail Salon"/></a>
       </p>
     <p align="center">
         <a href="https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view?resourcekey" target="blank"><img align="center" src="https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video"  /></a>

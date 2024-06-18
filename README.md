@@ -1,6 +1,11 @@
-<h1 align="center">Hola 👋 soy Angel T. Jaramillo Sulca / Ingeniero de Datos ✨ </h1>
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=1izrFk6qXRGcvpZk2eY3ON31UQuk5F9dp" alt="Angel T. Jaramillo Sulca" height="150">
+</p>
 <div align="center">
-  <img src="/mnt/data/image.png" alt="Angel T. Jaramillo Sulca" height="150">
+   <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola! Buen día! Soy Angel T. Jaramillo Sulca </h1>
+</div>
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1izrFk6qXRGcvpZk2eY3ON31UQuk5F9dp" alt="Angel T. Jaramillo Sulca" height="150">
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/angeljarads/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -30,13 +35,52 @@
 
 
 
+
+📚  
+
+
+
+
+
+
+
+
+
+🛢  
+
+
+
+
+🔧  
+
+
+
+
+
+📊  
+
+
+⚙️  
+
+
+
+
+
+
+
+
+
+☁️  
+
+
+
 📊  Proyectos Destacados
 <table align="center">
 <tr>
   <td width="50%" align="center">
     <p align="center">
      <a href="https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view" title="Proyecto Nail Salon">
-        <img align="center" width="100%" src="/mnt/data/image-1.png" alt="Proyecto Nail Salon"/></a>
+        <img align="center" width="100%" src="https://via.placeholder.com/250x150.png?text=Proyecto+Nail+Salon" alt="Proyecto Nail Salon"/></a>
       </p>
     <p align="center">
         <a href="https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view" target="blank"><img align="center" src="https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video"  /></a>
@@ -45,7 +89,7 @@
   <td width="50%" align="center">
     <p align="center">
      <a href="https://github.com/AlejandroAsor/c18-66-ft-data-bi" title="Proyecto Data BI">
-        <img align="center" width="100%" src="/mnt/data/image-2.png" alt="Proyecto Data BI"/></a>
+        <img align="center" width="100%" src="https://via.placeholder.com/250x150.png?text=Proyecto+Data+BI" alt="Proyecto Data BI"/></a>
       </p>
     <p align="center">
         <a href="https://github.com/AlejandroAsor/c18-66-ft-data-bi" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -74,3 +118,4 @@ Contacto
   💼 LinkedIn: [Ángel Jaramillo](https://www.linkedin.com/in/angeljarads/)
 </p>
 Gracias por visitar mi perfil...! 😃
+

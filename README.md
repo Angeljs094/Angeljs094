@@ -6,7 +6,7 @@
   <a href="mailto:angeljaramillosulca@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  /></a>
 </p>
 <br>
-👨🏻‍💻  Sobre mí
+## 👨🏻‍💻  Sobre mí
 ❤️   Me gusta investigar a fondo, hasta dar con el mínimo detalle.
 🎓   Soy Ingeniero de Sistemas y recientemente terminé una especialización en Data Science en Soy Henry.
 💼   Estoy abierto a oportunidades laborales relacionadas con Machine Learning, Ingeniería de Datos y Análisis de Datos.

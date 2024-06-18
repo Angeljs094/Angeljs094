@@ -115,6 +115,5 @@ Control de Versiones ⚙️
   💬 Siéntete libre de escribirme para propuestas laborales o si tienes dudas sobre alguno de mis repositorios.<br>
   📧 Email: <a href="mailto:angeljaramillosulca@gmail.com">angeljaramillosulca@gmail.com</a><br>
   💼 LinkedIn: <a href="https://www.linkedin.com/in/angeljarads/">Ángel Jaramillo</a><br>
-      Gracias por visitar mi perfil...! 😃
 </p>
-
+Gracias por visitar mi perfil...! 😃

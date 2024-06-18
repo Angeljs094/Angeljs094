@@ -89,21 +89,20 @@ Control de Versiones ⚙️
 <tr border="none">
   <td width="50%" align="center">
     <p align="center">
-     <a href="https://docs.google.com/presentation/d/1YhWsGaoZvAlG4MmxwD29TLIdE9tOMUZ5V8lsIhQTmNU/edit?usp=drive_link" title="Proyecto Nail Salon">
+     <a href="https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view?resourcekey" title="Proyecto Nail Salon">
         <img align="center" width="100%" src="/mnt/data/image.png" alt="Proyecto Nail Salon"/></a>
       </p>
     <p align="center">
-        <a href="https://docs.google.com/presentation/d/1YhWsGaoZvAlG4MmxwD29TLIdE9tOMUZ5V8lsIhQTmNU/edit?usp=drive_link" target="blank"><img align="center" src="https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video"  /></a>
+        <a href="https://drive.google.com/file/d/1qfldrAgpTUg0_Ot1_w4bBQk1AkvObFYy/view?resourcekey" target="blank"><img align="center" src="https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video"  /></a>
     </p>       
   </td>
   <td width="50%" align="center">
     <p align="center">
-     <a href="#" title="Proyecto 2">
-        <img align="center" width="100%" src="/mnt/data/image-Q7UqHMzVmtxPqkRKc5yCiM17.png" alt="Proyecto 2"/></a>
+     <a href="https://github.com/AlejandroAsor/c18-66-ft-data-bi" title="Análisis de ofertas laborales">
+        <img align="center" width="100%" src="/mnt/data/image-Q7UqHMzVmtxPqkRKc5yCiM17.png" alt="Análisis de ofertas laborales"/></a>
       </p>
     <p align="center">
-        <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video"  /></a>
-      <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+      <a href="https://github.com/AlejandroAsor/c18-66-ft-data-bi" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     </p>       
   </td>
 </tr>

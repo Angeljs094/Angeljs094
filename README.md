@@ -85,36 +85,35 @@ Control de Versiones ⚙️
  
 
 <h2>Proyectos Destacados 👨🏻‍💻</h2>
-
-<table align="left">
+<table align="center">
 <tr border="none">
   <td width="50%" align="center">
     <p align="center">
      <a href="https://docs.google.com/presentation/d/1YhWsGaoZvAlG4MmxwD29TLIdE9tOMUZ5V8lsIhQTmNU/edit?usp=drive_link" title="Proyecto Nail Salon">
-        <img align="center" width="100%" src="https://via.placeholder.com/250x150.png?text=Proyecto+Nail+Salon" alt="Proyecto Nail Salon"/></a>
+        <img align="center" width="100%" src="/mnt/data/image.png" alt="Proyecto Nail Salon"/></a>
       </p>
     <p align="center">
         <a href="https://docs.google.com/presentation/d/1YhWsGaoZvAlG4MmxwD29TLIdE9tOMUZ5V8lsIhQTmNU/edit?usp=drive_link" target="blank"><img align="center" src="https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video"  /></a>
     </p>       
-</td>
+  </td>
   <td width="50%" align="center">
     <p align="center">
      <a href="#" title="Proyecto 2">
-        <img align="center" width="100%" src="https://via.placeholder.com/250x150.png?text=Proyecto+2" alt="Proyecto 2"/></a>
+        <img align="center" width="100%" src="/mnt/data/image-1.png" alt="Proyecto 2"/></a>
       </p>
     <p align="center">
         <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video"  /></a>
       <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     </p>       
-</td>
+  </td>
 </tr>
 </table>
 <br><br><br><br><br><br><br><br><br>
 
-<h2>Contacto 😃</h2>
+Contacto 😃
 <p align="center">
   💬 Siéntete libre de escribirme para propuestas laborales o si tienes dudas sobre alguno de mis repositorios.<br>
-  📧 Email: [angeljaramillosulca@gmail.com](mailto:angeljaramillosulca@gmail.com)<br>
-  💼 LinkedIn: [Ángel Jaramillo](https://www.linkedin.com/in/angeljarads/)
+  📧 Email: <a href="mailto:angeljaramillosulca@gmail.com">angeljaramillosulca@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/angeljarads/">Ángel Jaramillo</a>
 </p>
 Gracias por visitar mi perfil...! 😃

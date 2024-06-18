@@ -1,6 +1,3 @@
-¡Por supuesto! Aquí tienes una versión adaptada y mejorada para tu perfil de GitHub. Esta versión es llamativa pero no sobrecargada, adecuada para alguien que recién comienza y quiere causar una buena impresión.
-
----
 
 <h1 align="center">Hola 👋 soy Angel T. Jaramillo Sulca / Ingeniero de Datos ✨ </h1> 
 
@@ -30,71 +27,14 @@
 
 <h2>Tecnologías Conocidas 👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3" alt="R">
-  <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql" alt="SQL">
-  <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" alt="Markdown">
-  <img src="https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB" alt="MATLAB">
-  <img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows" alt="Windows">
-  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux" alt="Linux">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras" alt="Keras">
-  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas">
-  <img src="https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy" alt="Numpy">
-  <img src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn" alt="Seaborn">
-  <img src="https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn" alt="Scikitlearn">
-  <img src="https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi" alt="FastAPI">
-  <img src="https://img.shields.io/badge/-Ultralytics-333333?style=flat&logo=Ultralytics" alt="Ultralytics">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL" alt="MySQL">
-  <img src="https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql" alt="Postgres">
-  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB" alt="MongoDB">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/-Apache%20Hadoop-333333?style=flat&logo=apache-hadoop" alt="Apache Hadoop">
-  <img src="https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=apache-hive" alt="Apache Hive">
-  <img src="https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark" alt="Apache Spark">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi" alt="Power BI">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter" alt="Jupyter">
-  <img src="https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge" alt="Colab">
-  <img src="https://img.shields.io/badge/-MYSQL_Workbench-333333?style=flat&logo=MYSQL_Workbench" alt="MYSQL Workbench">
-  <img src="https://img.shields.io/badge/-MongoDB_Compass-333333?style=flat&logo=MongoDB_Compass" alt="MongoDB Compass">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio" alt="RStudio">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Render-333333?style=flat&logo=render" alt="Render">
-  <img src="https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit" alt="Streamlit">
-</p>
-Espero que esta versión mejore la visualización de tus tecnologías conocidas, mostrándolas claramente con los iconos correspondientes, y que se adapte mejor a tus necesidades y estilo.
-
-
-seguimos trabajando en lo que son tecnologias ten encuenta eso
-puedes dividir y que tenga su titulo o encabezado que esten por lenguajes de promacion, base de datos , visualizadores , sistemas operativos, arreglalo y si puedes poner iconos tambien a lado de los encabezados seria bueno
-
-
-Tecnologías Conocidas 👨🏻‍💻
-Lenguajes de Programación
+Lenguajes de Programación 💻
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3" alt="R">
   <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql" alt="SQL">
   <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" alt="Markdown">
-  <img src="https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB" alt="MATLAB">
 </p>
-Base de Datos
+Base de Datos 🛢
 
 <p align="left">
   <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL" alt="MySQL">
@@ -103,7 +43,7 @@ Base de Datos
   <img src="https://img.shields.io/badge/-MYSQL_Workbench-333333?style=flat&logo=MYSQL_Workbench" alt="MYSQL Workbench">
   <img src="https://img.shields.io/badge/-MongoDB_Compass-333333?style=flat&logo=MongoDB_Compass" alt="MongoDB Compass">
 </p>
-Visualizadores
+Visualizadores 📊
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi" alt="Power BI">
@@ -112,15 +52,14 @@ Visualizadores
   <img src="https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn" alt="Seaborn">
   <img src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter" alt="Jupyter">
   <img src="https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge" alt="Colab">
-  <img src="https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio" alt="RStudio">
 </p>
-Sistemas Operativos
+Sistemas Operativos 💻
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows" alt="Windows">
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux" alt="Linux">
 </p>
-Herramientas y Frameworks
+Herramientas y Frameworks 🔧 
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras" alt="Keras">
@@ -137,7 +76,7 @@ Herramientas y Frameworks
   <img src="https://img.shields.io/badge/-Render-333333?style=flat&logo=render" alt="Render">
   <img src="https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit" alt="Streamlit">
 </p>
-Control de Versiones
+Control de Versiones ⚙️
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">

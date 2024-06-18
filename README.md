@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1izrFk6qXRGcvpZk2eY3ON31UQuk5F9dp" alt="Angel T. Jaramillo Sulca" height="150">
-</p>
 <div align="center">
    <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola! Buen día! Soy Angel T. Jaramillo Sulca </h1>
 </div>

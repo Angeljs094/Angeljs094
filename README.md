@@ -13,26 +13,38 @@
 <h2>Sobre mí 😃</h2>
 
 <p align="left">
-🎓 **Ingeniero de Sistemas** con pasión por el análisis de datos.
+❤️   Me gusta investigar a fondo, hasta dar con el mínimo detalle.
 
-📊 **Ingeniero de Datos** con experiencia en limpieza, preparación y análisis de datos utilizando herramientas como Python, SQL y Power BI.
+🎓   Soy Ingeniero de Sistemas y recientemente terminé una especialización en Data Science en Soy Henry.
 
-🎥 **Creador de contenido** que transmite sus conocimientos 📚 a través de redes sociales basado en estudio y experiencia.
+💼   Estoy abierto a oportunidades laborales relacionadas con Machine Learning, Ingeniería de Datos y Análisis de Datos.
 
-💻 Experiencia en desarrollo de software, análisis de datos y visualización de tendencias significativas para la toma de decisiones estratégicas.
+🌱   Me encantaría usar las herramientas de Machine Learning para generar un impacto positivo en las personas.
 
-📫 Contacto: **angeljaramillosulca@gmail.com**
+⚽   Practico deportes como el fútbol y espero seguir mejorando en ellos.
+
+📚   Me gusta leer sobre temas de crecimiento personal y expansión de la conciencia.
+
 </p>
 <br>
 
 <h2>Tecnologías Conocidas 👨🏻‍💻</h2>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,powerbi,tableau,git,github,docker,html,css,js&perline=10" />
-  </a>
-</p>
-<br>
+
+💻  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Proyectos Destacados 👨🏻‍💻</h2>
 

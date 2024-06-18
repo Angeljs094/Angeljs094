@@ -36,16 +36,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <h2>Proyectos Destacados 👨🏻‍💻</h2>
 
 <table align="left">
@@ -71,3 +61,5 @@
 </td>
 </tr>
 </table>
+
+<h2>Contacto 😃</h2>

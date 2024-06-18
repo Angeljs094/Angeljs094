@@ -99,7 +99,7 @@ Control de Versiones ⚙️
   <td width="50%" align="center">
     <p align="center">
      <a href="#" title="Proyecto 2">
-        <img align="center" width="100%" src="/mnt/data/image-1.png" alt="Proyecto 2"/></a>
+        <img align="center" width="100%" src="/mnt/data/image-Q7UqHMzVmtxPqkRKc5yCiM17.png" alt="Proyecto 2"/></a>
       </p>
     <p align="center">
         <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Video"  /></a>

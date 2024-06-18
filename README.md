@@ -29,7 +29,6 @@
 <br>
 
 <h2>Tecnologías Conocidas 👨🏻‍💻</h2>
-<h2>Tecnologías Conocidas 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
